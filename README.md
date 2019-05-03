@@ -2,7 +2,7 @@
 
 The codes include implementation of Butterworth filter, iFFT/FFT, feature extraction and normalization, training/test, and prediction confidences computation.
 
-LIBLINEAR is a SVM tool that outputs the model weights, i.e., *w*, with *w*, prediction confidences can be computed.
+LIBLINEAR is an SVM tool that outputs the model weights, i.e., *w*, with *w*, prediction confidences can be computed.
 Official site is [here](https://www.csie.ntu.edu.tw/~cjlin/liblinear/). To install it in MATLAB via [this answer](https://stackoverflow.com/a/15559516).
 
 
