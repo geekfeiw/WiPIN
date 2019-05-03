@@ -8,5 +8,5 @@ Official site is [here](https://www.csie.ntu.edu.tw/~cjlin/liblinear/). To insta
 
 Some other tools used in WiPIN:
 Linear Discriminant Analysis or PCA tool can be found [here](https://lvdmaaten.github.io/drtoolbox/).
-Support Vector Regression tool, i.e., LIBSVM, can be found [hear](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)(this cannot compute prediction scores).
+Support Vector Regression tool, i.e., LIBSVM, can be found [here](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (this cannot compute prediction scores).
 
